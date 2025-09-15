@@ -43,9 +43,9 @@ document.addEventListener('DOMContentLoaded', () => {
       "team.title": "NUESTRO EQUIPO",
       "team.adriana.bio": "Soy Adriana Palomares, tengo 22 años y soy estudiante de Ingeniería de Software en la UPC. Disfruto explorando nuevas tecnologías, especialmente la programación. También me apasionan los animales, en especial los perros.",
       "team.erick.bio": "Estoy en séptimo ciclo de Ingeniería de Software. Me gustan los videojuegos e ir al gimnasio. Soy responsable, centrado y con muchas ganas de aprender sobre IA y programación web.",
-      "team.fabio.bio": "Estudiante de Ingeniería de Software. Me considero proactivo, con buenas habilidades de trabajo en equipo y liderazgo. Disfruto trabajando en equipo para ofrecer calidad.",
+      "team.franz.bio": "Estudiante de Ingeniería de Software. Me considero proactivo, con buenas habilidades de trabajo en equipo y liderazgo. Disfruto trabajando en equipo para ofrecer calidad.",
       "team.oscar.bio": "Estudiante de Ingeniería de Software con enfoque proactivo en la resolución de problemas. Experiencia con C++, HTML, CSS, JavaScript y Python en diversos proyectos tecnológicos.",
-      "team.rafael.bio": "Séptimo ciclo de Ingeniería de Software. Me gustan los videojuegos y el gimnasio. Soy centrado, responsable y me interesa aprender IA y tecnologías web.",
+      "team.diego.bio": "Séptimo ciclo de Ingeniería de Software. Me gustan los videojuegos y el gimnasio. Soy centrado, responsable y me interesa aprender IA y tecnologías web.",
 
       "video.title": "VIDEO<br>ABOUT<br>THE TEAM",
       "video.copy": "Nuestro equipo en TukunTech está compuesto por personas dedicadas y apasionadas que trabajan juntas para garantizar el éxito de nuestra misión. En este video, conocerá a las personas detrás de nuestras innovadoras soluciones de monitoreo de la salud y aprenderá cómo nos esforzamos por marcar la diferencia en la atención médica con tecnología de vanguardia y trabajo en equipo.",
@@ -98,9 +98,9 @@ document.addEventListener('DOMContentLoaded', () => {
       "team.title": "OUR TEAM",
       "team.adriana.bio": "I am Adriana Palomares, 22 years old and a Software Engineering student at UPC. I enjoy exploring new technologies, especially programming. I am also passionate about animals, especially dogs.",
       "team.erick.bio": "I am in my seventh semester of Software Engineering. I like video games and going to the gym. I am responsible, focused, and eager to learn about AI and web development.",
-      "team.fabio.bio": "Software Engineering student. I consider myself proactive, with good teamwork and leadership skills. I enjoy working in teams to deliver quality results.",
+      "team.franz.bio": "Software Engineering student. I consider myself proactive, with good teamwork and leadership skills. I enjoy working in teams to deliver quality results.",
       "team.oscar.bio": "Software Engineering student with a proactive approach to problem solving. Experience with C++, HTML, CSS, JavaScript, and Python in various tech projects.",
-      "team.rafael.bio": "Seventh semester Software Engineering student. I enjoy video games and the gym. I am focused, responsible, and interested in learning AI and web technologies.",
+      "team.diego.bio": "Seventh semester Software Engineering student. I enjoy video games and the gym. I am focused, responsible, and interested in learning AI and web technologies.",
 
       "video.title": "VIDEO<br>ABOUT<br>THE TEAM",
       "video.copy": "Our TukunTech team is made up of dedicated, passionate people working together to ensure our mission’s success. In this video, meet the minds behind our innovative health monitoring solutions and see how we aim to make a difference in healthcare with cutting-edge technology and teamwork.",
